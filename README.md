@@ -18,3 +18,13 @@ A two-wheel self-balancing robot that is controlled using an ESP32. Powered by 7
 - 2 * wheel encoders
 - LM2596 buck converter
 - 7.4V 2S 650mAh LiPo battery
+## Images
+
+### Components and Setup
+![Components and Setup](components_setup.jpeg)
+
+### Chassis and Battery
+![Chassis and Battery](chassis_battery.jpeg)
+
+### Final Robot
+![Final Robot](final_robot.jpeg)
