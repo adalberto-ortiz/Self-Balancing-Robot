@@ -33,7 +33,7 @@ A two-wheel self-balancing robot that is controlled using an ESP32. Powered by 7
 [View the circuit schematic](schematic_selfBalancingRobot.pdf)
 
 ## Balancing Video
-[View the balancing video](balancing_video.mp4)
+[View the balancing video](video-self-balancing.mp4)
 
 ## Code
 [View the code](SelfBalancingV3.ino)
