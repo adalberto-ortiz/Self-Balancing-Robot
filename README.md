@@ -20,7 +20,7 @@ A two-wheel self-balancing robot that is controlled using an ESP32. Powered by 7
 - 7.4V 2S 650mAh LiPo battery
 ## Images
 
-### Components and Setup
+### Components and Setup (Before wiring)
 ![Components and Setup](components_setup.jpeg)
 
 ### Chassis and Battery
